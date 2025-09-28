@@ -30,6 +30,12 @@
             <artifactId>spring-ai-starter-mcp-server-webmvc</artifactId>
             <version>1.1.0-M2</version>
         </dependency>
+
+        <dependency>
+            <groupId>com.fasterxml</groupId>
+            <artifactId>classmate</artifactId>
+            <version>1.6.0</version>
+        </dependency>
         <!-- Optional: logging API if needed by the SDK at runtime -->
         <dependency>
             <groupId>org.slf4j</groupId>

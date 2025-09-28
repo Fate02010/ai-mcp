@@ -27,6 +27,7 @@
 
     <modules>
         <module>ai-mak-agent</module>
+        <module>ai-mak-client</module>
     </modules>
 
     <dependencyManagement>
